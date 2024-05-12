@@ -4,8 +4,8 @@ Atualmente estudo Desenvolvimento Web pelo IOS (Institudo da Oportunidade Social
 
 ##
 <div style="display": inline_block>
-<img height="" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
-<img height="" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkameoka&theme=kacho_ga&layout=compact"/>
+<img height="" width="460px" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
+<img height="" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkameoka&theme=kacho_ga&layout=compact"/>
 </div>
 
 ##
