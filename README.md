@@ -21,7 +21,7 @@ Atualmente estudo Desenvolvimento Web pelo IOS (Institudo da Oportunidade Social
 <div style="display": inline_block>
 <a href="https://www.instagram.com/mitsorry7/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-kameoka-5014182a1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img align="right" width="200px" src="https://ezgif.com/save/ezgif-4-9e1011fc12.gif">
+<img align="right" width="200px" src="./assets/img/ezgif.com-animated-gif-maker.gif">
 </div>
 
 ##
