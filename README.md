@@ -1,6 +1,6 @@
 ### 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
 
-Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela UNIP (Universidade Paulista) e pretendo dedicar meus próximos passos em back-end.
+Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela UNIP (Universidade Paulista), pretendo dedicar meus próximos passos em back-end e estou aprofundando meu estudos na linguagem C# e .NET.
 
 ##
 <div style="display": inline_block>
