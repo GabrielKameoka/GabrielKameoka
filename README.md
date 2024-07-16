@@ -1,6 +1,6 @@
 ### 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
 
-Atualmente estudo Desenvolvimento Web pelo IOS (Institudo da Oportunidade Social) e pretendo dedicar meus próximos passos em back-end.
+Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela UNIP (Universidade Paulista) e pretendo dedicar meus próximos passos em back-end.
 
 ##
 <div style="display": inline_block>
