@@ -5,7 +5,7 @@ Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela UNIP (Univer
 ##
 <div style="display": inline_block>
 <img height="" width="430px" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
-<img height="" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkameoka&theme=kacho_ga&layout=donut"/>
+<img height="" width="293px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielkameoka&theme=kacho_ga&layout=donut"/>
 </div>
 
 ##
