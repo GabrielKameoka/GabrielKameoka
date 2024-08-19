@@ -1,11 +1,5 @@
-<table>
-    <tr>
-        <td  style="width: 20%;">
-            <img src="./sung-jin-woo-solo-leveling.gif" style="width:100%"/>
-        </td>
-        <td style="width: 30%">
-                
 ### 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
+
 Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela UNIP (Universidade Paulista), estou aprofundando meu estudos na linguagem C# e .NET e pretendo dedicar meus próximos passos em back-end.
 
 ##
