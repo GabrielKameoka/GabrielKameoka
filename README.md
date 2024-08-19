@@ -2,6 +2,16 @@
 
 Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica Faculdade Digital, estou aprofundando meu estudos na linguagem C# e .NET e pretendo dedicar meus próximos passos em back-end.
 
+```
+Developer Gabriel = new Developer
+(
+  idade: 20,
+  estudando: ["C#", ".NET"],
+  formacaoAcademica: "Análise e Desenvolvimento de Sistemas(em andamento)",
+  linguagemPrincipal: ["C#", "JavaScript"]
+);
+```
+
 ##
 <div style="display": inline_block>
 <img height="" width="430px" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
