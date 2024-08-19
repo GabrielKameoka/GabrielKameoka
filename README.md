@@ -3,12 +3,12 @@
 Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica Faculdade Digital, estou aprofundando meu estudos na linguagem C# e .NET e pretendo dedicar meus próximos passos em back-end.
 
 ```
-Developer Gabriel = new Developer
+Developer eu = new Developer
 (
-  idade: 20,
-  estudando: ["C#", ".NET"],
-  formacaoAcademica: "Análise e Desenvolvimento de Sistemas(em andamento)",
-  linguagemPrincipal: ["C#", "JavaScript"]
+  eu.idade: 20,
+  eu.estudando: ["C#", ".NET"],
+  eu.formacaoAcademica: "Análise e Desenvolvimento de Sistemas(em andamento)",
+  eu.linguagemPrincipal: ["C#", "JavaScript"]
 );
 ```
 
