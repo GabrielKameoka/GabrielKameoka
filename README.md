@@ -5,10 +5,10 @@ Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica 
 ```
 Developer eu = new Developer
 (
-  eu.idade: 20,
-  eu.estudando: ["C#", ".NET"],
-  eu.formacaoAcademica: "Análise e Desenvolvimento de Sistemas(em andamento)",
-  eu.linguagemPrincipal: ["C#", "JavaScript"]
+  eu.idade = 20,
+  eu.estudando = ["C#", ".NET"],
+  eu.formacaoAcademica = "Análise e Desenvolvimento de Sistemas(em andamento)",
+  eu.linguagemPrincipal = ["C#", "JavaScript"]
 );
 ```
 
