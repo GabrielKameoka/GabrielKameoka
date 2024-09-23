@@ -6,7 +6,7 @@ Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica 
 Developer eu = new Developer
 (
   idade = 20,
-  estudando = ["C#", ".NET"],
+  estudando = ["C#", ".NET", "SQL"],
   formacaoAcademica = "Análise e Desenvolvimento de Sistemas(em andamento)",
   linguagemPrincipal = ["C#", "JavaScript"]
 );
