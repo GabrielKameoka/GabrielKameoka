@@ -1,4 +1,6 @@
-### 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
+<img width="100%" src="./assets/img/darkmontain.jpg" />
+
+## 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
 
 Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica Faculdade Digital, estou aprofundando meu estudos na linguagem C# e .NET e pretendo dedicar meus próximos passos em back-end.
 
@@ -11,8 +13,11 @@ Developer eu = new Developer
   linguagemPrincipal = ["C#", "JavaScript"]
 );
 ```
+### 🧑‍💻Portifólio🧑‍💻 ###
+<a href="https://portifolio-hhnrcyjmu-gabrielkameokas-projects.vercel.app/">Gabriel Mitsuru .NET Developer</a>
 
-##
+## 
+
 <div style="display": inline_block>
   <img height="" width="430px" hide_border="true" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
   <img height="" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKameoka&theme=kacho_ga&layout=donut"/>
