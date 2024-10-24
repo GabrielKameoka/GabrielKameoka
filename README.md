@@ -1,4 +1,6 @@
-### 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
+<img width="100%" src="./assets/img/darkmontain.jpg" />
+
+## 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
 
 Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica Faculdade Digital, estou aprofundando meu estudos na linguagem C# e .NET e pretendo dedicar meus próximos passos em back-end.
 
@@ -11,8 +13,11 @@ Developer eu = new Developer
   linguagemPrincipal = ["C#", "JavaScript"]
 );
 ```
+### 🧑‍💻Portifólio🧑‍💻 ###
+<a href="https://portifolio-hhnrcyjmu-gabrielkameokas-projects.vercel.app/">Gabriel Mitsuru .NET Developer</a>
 
-##
+## 
+
 <div style="display": inline_block>
   <img height="" width="430px" hide_border="true" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
   <img height="" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKameoka&theme=kacho_ga&layout=donut"/>
@@ -20,15 +25,25 @@ Developer eu = new Developer
 
 ##
 
-<img align="right" width="250px" src="./assets/img/solo-leveling-jinwoo.gif">
 
-### ⚒️Skills
+### 🖥️Tech
 <div style="display": inline_block><br>
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
+
+
+### ⚒️Tools
+<div style="display": inline_block><br>
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" height="50" width="60" src="./assets/img/dotnetIcon.jpg" />
+
+          
+
 
 
 ##
