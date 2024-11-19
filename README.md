@@ -10,12 +10,9 @@ Developer eu = new Developer
   idade = 20,
   estudando = ["C#", ".NET", "SQL"],
   formacaoAcademica = "Análise e Desenvolvimento de Sistemas(em andamento)",
-  linguagemPrincipal = ["C#", "JavaScript"]
+  mainLanguage = ["C#", "JavaScript"]
 );
 ```
-### 🧑‍💻Portifólio🧑‍💻 ###
-<a href="https://portifolio-hhnrcyjmu-gabrielkameokas-projects.vercel.app/">Gabriel Mitsuru .NET Developer</a>
-
 ## 
 
 <div style="display": inline_block>
@@ -26,21 +23,23 @@ Developer eu = new Developer
 ##
 
 
-### 🖥️Tech
+### 🖥️Stack
 <div style="display": inline_block><br>
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
 <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="center" height="55" width="55" src="./assets/img/dotnet.jpg" />
 
 
 
 ### ⚒️Tools
 <div style="display": inline_block><br>
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="center" height="50" width="50" src="./assets/img/dotnet.jpg" />
+<img align="center" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
+
 
           
 
