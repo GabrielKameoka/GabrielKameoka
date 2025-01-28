@@ -17,7 +17,7 @@ Developer eu = new Developer
 
 <div style="display": inline_block>
   <img height="" width="430px" hide_border="true" src="https://github-readme-stats.vercel.app/api?username=GabrielKameoka&theme=kacho_ga&show_icons=true"/>
-  <img height="" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKameoka&theme=kacho_ga&layout=compact"/>
+  <img height="" width="328px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKameoka&theme=kacho_ga&layout=compact"/>
 </div>
 
 ##
