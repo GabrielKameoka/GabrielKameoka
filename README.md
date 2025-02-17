@@ -1,8 +1,12 @@
 <img width="100%" src="./assets/img/darkmontain.jpg" />
 
-## 👋Olá mundo!! Meu nome é Gabriel Mitsuru👋
+## 👋Olá!! Meu nome é Gabriel Mitsuru👋
 
-Atualmente estudo ADS (Análise e Desenvolvimento de Sistemas) pela Descomplica Faculdade Digital, estou aprofundando meu estudos em .NET e pretendo dedicar meus próximos passos no back-end.
+Sou um aspirante a Desenvolvedor Full-stack apaixonado por tecnologia e em constante aprendizado. Minha jornada no mundo da programação começou em 2024, com o curso de Desenvolvimento Web no Instituto da Oportunidade Social, onde me aventurei por HTML, CSS, JavaScript, Git e GitHub, e tive contato com workshops práticos.
+
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Descomplica Faculdade, aprofundando meus conhecimentos em .NET e banco de dados. Meu objetivo é me tornar um especialista Full-stack, com foco em .NET, e dominar o ambiente ASP.NET com integração de dados usando o Entity Framework.
+
+Minha paixão por tecnologia me acompanha desde a infância, e busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e que me permitam crescer profissionalmente.
 
 ```
 Developer eu = new Developer
