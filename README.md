@@ -8,6 +8,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Descomplica Faculdad
 
 Minha paixão por tecnologia me acompanha desde a infância, e busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e que me permitam crescer profissionalmente.
 
+Aqui está alguns dos meus trabalhos que desenvolvi durante a minha jornada <a href="https://gabrielmitsuru.vercel.app/" target="blank">Portifólio</a>.
+
 ```
 Developer eu = new Developer
 (
