@@ -3,17 +3,16 @@
 # 👋 Olá, meu nome é Gabriel Mitsuru
 
 Sou um **aspirante a Desenvolvedor Full-Stack** com foco em **.NET** e **Angular**, sempre priorizando **padrões de projeto** e **boas práticas de desenvolvimento**.  
-Minha jornada na programação começou em **2024**, com o curso de **Desenvolvimento Web** no [Instituto da Oportunidade Social](https://ios.org.br/), onde aprendi **HTML, CSS, JavaScript, Git e GitHub** e participei de **workshops práticos**.
+Minha jornada na programação começou em **2024**, com o curso de **Desenvolvimento Web** no [Instituto da Oportunidade Social](https://ios.org.br/), onde aprendi **HTML, CSS, JavaScript, Git e GitHub** e participei de **workshops práticos**. E desde então, estudo com muita empolgação as tecnologias que dominam o mercado.
 
 💻 **Portfólio:** [gabrielmitsuru.vercel.app](https://gabrielmitsuru.vercel.app/)
 
 ---
 
 ## 🚀 Sobre mim
-- 📚 Aprendendo **.NET, Angular e DevOps**
-- 🏗️ Focado em **Clean Architecture**
+- 📚 Aprendendo **.NET, Angular e flertando com DevOps**
 - 📈 Sempre buscando evoluir com **boas práticas e design patterns**
-- ⚡ Curioso sobre **arquitetura de software** e **infraestrutura em nuvem**
+- ⚡ Curioso sobre **arquitetura de software** e **estilização minimalista**
 
 ---
 
@@ -56,7 +55,3 @@ Minha jornada na programação começou em **2024**, com o curso de **Desenvolvi
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
-
----
-
-⭐ _"Sempre buscando escrever código limpo, escalável e que gere impacto positivo."_  
