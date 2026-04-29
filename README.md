@@ -42,7 +42,15 @@ Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções esca
 - **Metodologias:** `Scrum`, `Kanban`, `Clean Architecture`, `SOLID`
 - **Interesses:** segurança da informação
 
----
-
 ## Tecnologias e Ferramentas
-<p align="left"><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" />&nbsp;<img height="70" width="70" src="./assets/img/dotnet.jpg" alt=".NET" />&nbsp;<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" />&nbsp;<img height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" />&nbsp;<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" />&nbsp;<img height="70" width="60" src="./assets/img/cursorIcon.png" alt="Cursor" />&nbsp;<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider" /></p>
+<table>
+  <tr>
+    <td><img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" /></td>
+    <td><img height="70" width="70" src="./assets/img/dotnet.jpg" alt=".NET" /></td>
+    <td><img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" /></td>
+    <td><img height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" /></td>
+    <td><img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" /></td>
+    <td><img height="70" width="60" src="./assets/img/cursorIcon.png" alt="Cursor" /></td>
+    <td><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider" /></td>
+  </tr>
+</table>
