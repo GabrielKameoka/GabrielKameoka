@@ -45,7 +45,7 @@ Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções esca
 ---
 
 ## Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
+<div style="display: flex; flex-direction: row"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" />
   <img align="center" height="55" width="55" src="./assets/img/dotnet.jpg" alt=".NET" />
   <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" />
