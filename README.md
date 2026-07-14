@@ -10,37 +10,39 @@ Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções esca
 - WhatsApp: https://wa.me/+5511964449982
 - LinkedIn: [in/gabriel-mitsuru](https://www.linkedin.com/in/gabriel-mitsuru)
 
-## Experiência
+## Experiência e Projetos
 
-### Pet'sFran Agendamento - (dez/2025 - mar/2026)
+### Pet'sFran Agendamento — (dez/2025 - mar/2026)
 **Stack:** `.NET 9`, `Angular`, `Docker`, `PostgreSQL`
-- Desenvolvimento de aplicação full-stack com back-end em .NET 9 e front-end em Angular.
-- Criação de API RESTful com autenticação JWT e integração com PostgreSQL.
-- Deploy em nuvem (Railway e Vercel) com Git e Docker.
+- Desenvolvimento de aplicação comercial full-stack ponta a ponta voltada para gestão de pet shops.
+- Criação de API RESTful desacoplada com autenticação e segurança baseada em tokens JWT.
+- Persistência otimizada com PostgreSQL e conteinerização total do ambiente com Docker.
+- Deploy automatizado em nuvem utilizando Railway e Vercel.
 
-### Indies - (mar/2025 - jun/2025)
-**Stack:** `.NET 8`, `Razor Pages`, `Blazor`, `SQL Server`
-- Desenvolvimento de aplicação com .NET 8, Razor Pages e Blazor.
-- Implementação de autenticação com Identity Framework e banco SQL Server.
-- Primeiros passos com arquitetura MVC e organização de código.
+### RepCortex — (mar/2026 - jul/2026)
+**Stack:** `.NET 9`, `Angular 17+`, `SignalR`, `SQL Server`, `ML.NET`
+- Solução SaaS Multi-Tenant inteligente para ingestão, moderação e gerenciamento de feedbacks baseada em Inteligência Artificial.
+- Integração de modelos do ML.NET no backend para análise automatizada de sentimento e identificação de fraudes/antispam (fingerprint).
+- Arquitetura de streaming em tempo real com barramento SignalR para atualização instantânea de dashboards analíticos.
+- Interface reativa de alta performance construída em Angular utilizando reatividade moderna com Signals e Effects.
 
-### Aprenda+ - (mar/2024 - jul/2024)
+### Aprenda+ — (mar/2024 - jul/2024)
 **Stack:** `HTML`, `CSS`, `JavaScript`
-- Projeto em grupo desenvolvido durante o curso do Instituto da Oportunidade Social (IOS).
-- Trabalho apresentado na TOTVS como conclusão do curso.
+- Projeto educacional em grupo desenvolvido durante o curso do Instituto da Oportunidade Social (IOS).
+- Trabalho focado em fundamentos de desenvolvimento web e apresentado na sede da TOTVS como conclusão do curso.
 
 ## Formação
 - **CST em Análise e Desenvolvimento de Sistemas**
 - **Descomplica Faculdade** (`ago/2024 - dez/2026`)
 
 ## Habilidades e Competências
-- **Backend:** `C#`, `.NET 7/8/9`, `ASP.NET Core`, `MVC`, `Web APIs`, `Entity Framework`
-- **Frontend:** `Angular 16+`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`
-- **Banco de dados:** `SQL Server`, `PostgreSQL`
-- **Ferramentas:** `Git`, `Docker`, `CI/CD`
-- **Qualidade:** `xUnit`, documentação de bugs, boas práticas de arquitetura e código
-- **Metodologias:** `Scrum`, `Kanban`, `Clean Architecture`, `SOLID`
-- **Interesses:** segurança da informação
+- **Backend:** `C#`, `.NET 7/8/9`, `ASP.NET Core`, `Web APIs`, `SignalR`, `Entity Framework`, `ML.NET`
+- **Frontend:** `Angular 16/17+ (Signals/Effects)`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`
+- **Banco de dados & Cache:** `SQL Server`, `PostgreSQL`, `Redis`
+- **Ferramentas & Infra:** `Git`, `Docker`, `CI/CD (Railway/Vercel)`
+- **Qualidade & Arquitetura:** `xUnit`, `Clean Architecture`, `SOLID`, `Design Patterns`, `Multi-tenancy`
+- **Metodologias:** `Scrum`, `Kanban`
+- **Interesses:** Segurança da Informação, Engenharia de Dados e Sistemas Financeiros
 
 ## Tecnologias e Ferramentas
 <table>
