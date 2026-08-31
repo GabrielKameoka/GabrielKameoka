@@ -3,7 +3,7 @@
 # Gabriel Mitsuru Kameoka Namazu
 ### Desenvolvedor Full-stack .NET & Angular
 
-Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções escaláveis com **.NET** e **Angular** integrando IA no desenvolvimento. Tenho base sólida em lógica de programação e arquitetura de sistemas, buscando gerar impacto em produtos dos setores de **Cloud, Financeiro e Agro**.
+Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções escaláveis com **.NET** e **Angular** integrando IA no desenvolvimento. Tenho base sólida em lógica de programação e arquitetura de sistemas, buscando gerar impacto em produtos de qualidade, moderno e principalmente, escalável para milhares de pessoas.
 
 - Portfólio: [gabrielmitsuru.com](https://gabrielmitsuru.com)
 - Email: [gabrielkameoka@gmail.com](mailto:gabrielkameoka@gmail.com)
@@ -36,11 +36,11 @@ Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções esca
 - **Descomplica Faculdade** (`ago/2024 - dez/2026`)
 
 ## Habilidades e Competências
-- **Backend:** `C#`, `.NET 7/8/9`, `ASP.NET Core`, `Web APIs`, `SignalR`, `Entity Framework`, `ML.NET`
+- **Backend:** `C#`, `.NET 7/8/9`, `ASP.NET Core`, `CQRS`, `SignalR`, `ML.NET`
 - **Frontend:** `Angular 16/17+ (Signals/Effects)`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`
 - **Banco de dados & Cache:** `SQL Server`, `PostgreSQL`, `Redis`
 - **Ferramentas & Infra:** `Git`, `Docker`, `CI/CD (Railway/Vercel)`
-- **Qualidade & Arquitetura:** `xUnit`, `Clean Architecture`, `SOLID`, `Design Patterns`, `Multi-tenancy`
+- **Qualidade & Arquitetura:** `xUnit`, `Clean Architecture`, `SOLID`, `Design Patterns`, `System Design`
 - **Metodologias:** `Scrum`, `Kanban`
 - **Interesses:** Segurança da Informação, Engenharia de Dados e Sistemas Financeiros
 
