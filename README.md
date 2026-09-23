@@ -5,7 +5,7 @@
 
 Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções escaláveis com **.NET** e **Angular** integrando IA no desenvolvimento. Tenho base sólida em lógica de programação e arquitetura de sistemas, buscando gerar impacto em produtos de qualidade, moderno e principalmente, escalável para milhares de pessoas.
 
-- Portfólio: [gabrielmitsuru.com](https://gabrielmitsuru.com)
+- Portfólio: [gabrielmitsuru.com](https://gabrielmitsuru.vercel.app)
 - Email: [gabrielkameoka@gmail.com](mailto:gabrielkameoka@gmail.com)
 - WhatsApp: https://wa.me/+5511964449982
 - LinkedIn: [in/gabriel-mitsuru](https://www.linkedin.com/in/gabriel-mitsuru)
