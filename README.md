@@ -12,7 +12,7 @@ Sou um **Engenheiro de Software** com foco em desenvolvimento de soluções esca
 
 ## Experiência e Projetos
 
-### Pet'sFran Agendamento — (dez/2025 - mar/2026)
+### Pet'sFran Agendamento — (set/2026 - out/2026)
 **Stack:** `.NET 9`, `Angular`, `Docker`, `PostgreSQL`
 - Desenvolvimento de aplicação comercial full-stack ponta a ponta voltada para gestão de pet shops.
 - Criação de API RESTful desacoplada com autenticação e segurança baseada em tokens JWT.
